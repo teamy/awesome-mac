@@ -28,7 +28,7 @@
     "colors-cli": "1.0.27",
     "ejs": "3.1.6",
     "gh-pages": "3.2.1",
-    "html-minifier": "3.5.21",
+    "html-minifier": "4.0.0",
     "loading-cli": "1.1.0",
     "marked": "2.0.0",
     "mkdirp": "1.0.4",
