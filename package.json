@@ -30,7 +30,7 @@
     "gh-pages": "3.2.3",
     "html-minifier": "4.0.0",
     "loading-cli": "1.1.0",
-    "marked": "3.0.7",
+    "marked": "3.0.8",
     "mkdirp": "1.0.4",
     "pygmentize-bundled": "2.3.0"
   }
